@@ -50,6 +50,7 @@ public interface UserService {
     Optional<User> getUpdateUserWithAgeHigherThan(List<User> users, int age);
 
     /**
+     *
      * Should return grouped map by number of user's privileges
      *
      * @param users list of users
