@@ -2,6 +2,7 @@ package edu.java8.practice.service;
 
 import edu.java8.practice.domain.Privilege;
 import edu.java8.practice.domain.User;
+import netscape.security.Privilege;
 
 import java.util.List;
 import java.util.Map;
